@@ -6,7 +6,9 @@ import (
 )
 
 func main() {
-	//second commit is here
+	//third commit is here
 	fmt.Println("Hello world")
+	fmt.Println("hHh")
+	fmt.Println("hohoho")
 	fmt.Println(math.Pi)
 }
